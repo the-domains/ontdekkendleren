@@ -4,7 +4,7 @@
         <description><![CDATA[Spelen, ontdekken, leren]]></description>
         <link>https://thegrid.ai/ontdekkendleren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 18:46:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ontdekkendleren/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Opgraving in de zandtafel]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ontdekkendleren/een-zandtafel-wordt-een-archeologisch-opgraving-met-wat-ext/index.html</link>
             <guid isPermaLink="false">e3ade3d3-b891-47e7-b86a-de3ad944fb6d</guid>
             <pubDate>Tue, 03 May 2016 18:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0db8004-fb1b-4e49-8610-54a8e1f655dd.jpg">]]></description>
-            <link>https://thegrid.ai/ontdekkendleren/c8b9e599-c891-4c3f-b6b3-c191f0be0e83/index.html</link>
-            <guid isPermaLink="false">c8b9e599-c891-4c3f-b6b3-c191f0be0e83</guid>
-            <pubDate>Tue, 03 May 2016 18:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,6 +40,13 @@
             <link>http://ontwerpenindeklas.nl/casus/mystery-challenges/</link>
             <guid isPermaLink="false">62723bef-a691-4933-8807-a4aecc5d2196</guid>
             <pubDate>Mon, 02 May 2016 06:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0db8004-fb1b-4e49-8610-54a8e1f655dd.jpg">]]></description>
+            <link>https://thegrid.ai/ontdekkendleren/c8b9e599-c891-4c3f-b6b3-c191f0be0e83/index.html</link>
+            <guid isPermaLink="false">c8b9e599-c891-4c3f-b6b3-c191f0be0e83</guid>
+            <pubDate>Sun, 01 May 2016 18:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
