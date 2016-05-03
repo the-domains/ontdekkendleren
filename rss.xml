@@ -4,7 +4,7 @@
         <description><![CDATA[Spelen, ontdekken, leren]]></description>
         <link>https://thegrid.ai/ontdekkendleren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 18:46:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ontdekkendleren/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Opgraving in de zandtafel]]></title>
@@ -15,17 +15,24 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28906567-6b9f-4848-addb-8b6b33e0dbbf.jpg">]]></description>
-            <link>https://thegrid.ai/ontdekkendleren/2f88cd73-1329-4e48-b5ab-72600f922f60/index.html</link>
-            <guid isPermaLink="false">2f88cd73-1329-4e48-b5ab-72600f922f60</guid>
-            <pubDate>Tue, 03 May 2016 18:46:03 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0db8004-fb1b-4e49-8610-54a8e1f655dd.jpg">]]></description>
+            <link>https://thegrid.ai/ontdekkendleren/c8b9e599-c891-4c3f-b6b3-c191f0be0e83/index.html</link>
+            <guid isPermaLink="false">c8b9e599-c891-4c3f-b6b3-c191f0be0e83</guid>
+            <pubDate>Tue, 03 May 2016 18:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b528eaa-06e2-488f-b76b-f57032be64af.jpg">]]></description>
             <link>https://thegrid.ai/ontdekkendleren/9fa0a6f0-909c-47b8-82a0-34d4aa0ad3cb/index.html</link>
             <guid isPermaLink="false">9fa0a6f0-909c-47b8-82a0-34d4aa0ad3cb</guid>
-            <pubDate>Tue, 03 May 2016 18:45:36 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 18:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28906567-6b9f-4848-addb-8b6b33e0dbbf.jpg">]]></description>
+            <link>https://thegrid.ai/ontdekkendleren/2f88cd73-1329-4e48-b5ab-72600f922f60/index.html</link>
+            <guid isPermaLink="false">2f88cd73-1329-4e48-b5ab-72600f922f60</guid>
+            <pubDate>Tue, 03 May 2016 18:46:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SAND AND WATER TABLES]]></title>
@@ -40,13 +47,6 @@
             <link>http://ontwerpenindeklas.nl/casus/mystery-challenges/</link>
             <guid isPermaLink="false">62723bef-a691-4933-8807-a4aecc5d2196</guid>
             <pubDate>Mon, 02 May 2016 06:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0db8004-fb1b-4e49-8610-54a8e1f655dd.jpg">]]></description>
-            <link>https://thegrid.ai/ontdekkendleren/c8b9e599-c891-4c3f-b6b3-c191f0be0e83/index.html</link>
-            <guid isPermaLink="false">c8b9e599-c891-4c3f-b6b3-c191f0be0e83</guid>
-            <pubDate>Sun, 01 May 2016 18:29:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
