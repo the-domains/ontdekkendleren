@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Een zandtafel wordt een archeologisch opgraving. Met wat extra vergrootglazen, kwasten, meetlinten en vlaggetjes voor het markeren zijn kinderen druk aan het opgraven en onderzoeken van hun vondsten. '
-datePublished: '2016-05-03T18:29:43.137Z'
-dateModified: '2016-05-03T18:29:28.328Z'
+description: 'Een zandtafel wordt een archeologisch opgraving. Met wat extra vergrootglazen, kwasten, meetlinten en vlaggetjes voor het markeren zijn kinderen druk aan het opgraven en onderzoeken van hun vondsten.'
+datePublished: '2016-05-03T18:43:48.751Z'
+dateModified: '2016-05-03T18:43:41.078Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-03-een-zandtafel-wordt-een-archeologisch-opgraving-met-wat-ext.md
 published: true
+starred: true
 url: een-zandtafel-wordt-een-archeologisch-opgraving-met-wat-ext/index.html
 _type: Article
 
